@@ -11,4 +11,8 @@ public class J {
     public java.util.List<String> jj() {
         return new java.util.ArrayList<String>();
     }
+
+    public byte oo() {
+        return 4;
+    }
 }
