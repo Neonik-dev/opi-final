@@ -23,4 +23,8 @@ public class E {
     public double ad() {
         return java.lang.Math.sqrt(13);
     }
+
+    public int ae() {
+        return 8;
+    }
 }
