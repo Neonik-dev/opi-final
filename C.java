@@ -15,4 +15,8 @@ public class C extends E {
     public Object pp() {
         return this;
     }
+
+    public float ff() {
+        return 0;
+    }
 }

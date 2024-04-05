@@ -15,4 +15,8 @@ public class J {
     public byte oo() {
         return 4;
     }
+
+    public int af() {
+        return -1;
+    }
 }

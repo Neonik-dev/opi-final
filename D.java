@@ -15,4 +15,8 @@ public class D {
     public java.util.Set<Integer> ll() {
         return new java.util.HashSet<Integer>;
     }
+
+    public java.util.List<String> jj() {
+        return new java.util.LinkedList<String>();
+    }
 }
