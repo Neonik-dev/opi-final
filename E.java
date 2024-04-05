@@ -31,4 +31,8 @@ public class E extends null {
     public Object rr() {
         return null;
     }
+
+    public float ff() {
+        return 0;
+    }
 }

@@ -27,4 +27,8 @@ public class D extends null {
     public Object rr() {
         return null;
     }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
+    }
 }

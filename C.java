@@ -31,4 +31,8 @@ public class C extends E {
     public long dd() {
         return 33;
     }
+
+    public int af() {
+        return -1;
+    }
 }
