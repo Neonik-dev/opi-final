@@ -19,4 +19,8 @@ public class J {
     public int af() {
         return -1;
     }
+
+    public void aa() {
+        System.out.println("Hello world!");
+    }
 }

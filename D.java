@@ -19,4 +19,8 @@ public class D {
     public java.util.List<String> jj() {
         return new java.util.LinkedList<String>();
     }
+
+    public int[] ii() {
+        return new int[]{4, 3, 2, 1};
+    }
 }
