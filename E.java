@@ -35,4 +35,8 @@ public class E extends null {
     public float ff() {
         return 0;
     }
+
+    public void ab() {
+        System.out.println("\n");
+    }
 }

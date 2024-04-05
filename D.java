@@ -31,4 +31,8 @@ public class D extends null {
     public Object gg() {
         return return getClass().getClassLoader();
     }
+
+    public int cc() {
+        return 42;
+    }
 }
