@@ -19,4 +19,8 @@ public class E {
     public void aa() {
         System.out.println("Hello world!");
     }
+
+    public double ad() {
+        return java.lang.Math.sqrt(13);
+    }
 }
