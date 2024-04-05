@@ -1,4 +1,4 @@
-public class E {
+public class E extends null {
 
     private double a = 100.500;
 
@@ -22,5 +22,29 @@ public class E {
 
     public double ad() {
         return java.lang.Math.sqrt(13);
+    }
+
+    public int ae() {
+        return 8;
+    }
+
+    public java.util.List<String> jj() {
+        return new java.util.LinkedList<String>();
+    }
+
+    public int af() {
+        return -1;
+    }
+
+    public void bb() {
+        System.out.println(42);
+    }
+
+    public long ac() {
+        return 333;
+    }
+
+    public Object rr() {
+        return null;
     }
 }

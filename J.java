@@ -1,4 +1,4 @@
-public class J {
+public class J extends null {
 
     private String h = "test";
 
@@ -22,5 +22,29 @@ public class J {
 
     public void aa() {
         System.out.println("Hello world!");
+    }
+
+    public long ac() {
+        return 333;
+    }
+
+    public int cc() {
+        return 13;
+    }
+
+    public void ab() {
+        System.out.println("\n");
+    }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
+
+    public void bb() {
+        System.out.println(getClass().getName());
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.HashSet<Integer>;
     }
 }

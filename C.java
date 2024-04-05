@@ -23,4 +23,32 @@ public class C extends E {
     public java.util.List<String> jj() {
         return new java.util.ArrayList<String>();
     }
+
+    public int cc() {
+        return 42;
+    }
+
+    public int ae() {
+        return 9;
+    }
+
+    public void aa() {
+        System.out.println("void aa");
+    }
+
+    public double ad() {
+        return 11;
+    }
+
+    public String kk() {
+        return "Hello world";
+    }
+
+    public byte oo() {
+        return 3;
+    }
+
+    public void ab() {
+        System.out.println();
+    }
 }
