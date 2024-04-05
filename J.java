@@ -1,4 +1,4 @@
-public class J {
+public class J extends null {
 
     private String h = "test";
 
@@ -14,5 +14,21 @@ public class J {
 
     public byte oo() {
         return 4;
+    }
+
+    public int af() {
+        return -1;
+    }
+
+    public void aa() {
+        System.out.println("Hello world!");
+    }
+
+    public long ac() {
+        return 333;
+    }
+
+    public int cc() {
+        return 39;
     }
 }
